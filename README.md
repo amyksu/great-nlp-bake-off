@@ -1,4 +1,4 @@
-# great-nlp-bake-off
+# The Great NLP Bake Off
 
 One of my not-so-secret obsessions is the British television show, the Great British Bake Off or as I like to call it, GBBO. Being an avid baker myself, it’s so entertaining and mesmerizing to see all of these amazing home bakers make these amazing creations from scratch. The show is such a stark contrast to American competition shows because of how pleasant and supportive all of the contestants are to one another. There are never any insults or shit talking, just a lot of encouragement and, sometimes, consoling when a contestant is feeling down. Their relationships and the relationships between the contestants and the hosts and judges are some of my favorite parts of the show. It’s also a great show to wind down to after a stressful day. 
 
